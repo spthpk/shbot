@@ -18,7 +18,6 @@ const help = (prefix) => {
 ║11 *${prefix}memeindo*
 ║12 *${prefix}gtts*
 ║13 *${prefix}lolih [on]*
-║15 *${prefix}url2img*
 ║16 *${prefix}leens [na legenda]*
 ║17 *${prefix}wait [na legenda]*
 ║18 *${prefix}setprefix*
@@ -71,8 +70,6 @@ const help = (prefix) => {
 ╠══㋠【 GRUPO 】㋠══
 ║
 ║95 *${prefix}banir*
-║96 *${prefix}leveling [on/off]*
-║97 *${prefix}level*
 ║98 *${prefix}add*
 ║99 *${prefix}promover*
 ║100 *${prefix}setfoto [na legenda]*
@@ -91,25 +88,13 @@ const help = (prefix) => {
 ║
 ╠══㋠【 ESPECIFICO DO BOT 】㋠══
 ║
-║114 *${prefix}bug [sua mensagem]*
 ║115 *${prefix}clonar [@]*
-║116 *${prefix}dono*
-║117 *${prefix}ping [ver velocidade do bot]*
-║118 *${prefix}termux*
 ║119 *${prefix}gay [@]*
-║119 *${prefix}gado [@]*
 ║120 *${prefix}wame*
-║121 *${prefix}map (nome)*
 ║122 *${prefix}setppbot (marque uma img)*
 ║123 *${prefix}pinterest (nome)*
 ║124 *${prefix}desligar (so para o dono)*
 ║125 *${prefix}timer*
-║
-╠══㋠【 MAIS ALGUNS 】㋠══
-║xxx1 a 3
-║peep1 a 3
-║m4
-║1800
 ║
 ╠══㋠【 INFO 】㋠══
 ║
