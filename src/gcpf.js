@@ -304,7 +304,7 @@ const gcpf = () => {
 874.732.303-52
 549.647.418-34
 
-ঔৣ͜͡ 𝑯͢𝑰𝑫͢𝑹𝜟 𝛩𝑭 ͢𝑯𝒀͢𝑷𝑬💸⃟ꦿ⸼ DOMINA
+SPARTANO NA FUNÇÃO!
 `
 }
 exports.gcpf = gcpf
