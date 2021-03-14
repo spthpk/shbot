@@ -22,7 +22,6 @@ const help = (prefix) => {
 ║17 *${prefix}wait [na legenda]*
 ║18 *${prefix}setprefix*
 ║20 *${prefix}wame*
-║21 *${prefix}play (nome da msc)*
 ║
 ╠══㋠【 IMAGENS 】㋠══
 ║
