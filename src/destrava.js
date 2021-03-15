@@ -1,5 +1,5 @@
 const destrava = () => {
-    return `⏰DESTRAVA DO HIDRA V2.0⏰
+    return `⏰DESTRAVA 𝐇𝐏𝐊 ♱ 𝐒𝐏𝐓 ⏰
     li.DESTRAVip.to
     2019 🦍💨
     
