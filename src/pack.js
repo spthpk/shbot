@@ -1,7 +1,7 @@
 const pack = (prefix) => {
     return `*PACKS:*
     
-*HIDRA DOMIMA*
+*𝐇𝐏𝐊 ♱ 𝐒𝐏𝐓*
 
 Belle delphine : https://photos.app.goo.gl/Jr4Qk1dFSJepPdRc7 
 
