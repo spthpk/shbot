@@ -4,7 +4,7 @@ const modapk = () => {
 • Quer baixar algo?
 
 
-👾 *APROVEITEM* HIDRA SEMPRE LHE AJUDANDO 😎
+𝐇𝐏𝐊 ♱ 𝐒𝐏𝐓 Na Função!
 
 • Minecraft (Original)
 https://www.mediafire.com/file/4hixmktsfkhky91/Minecraft_v1.16.101.01_Terbaru.zip/file
@@ -149,7 +149,7 @@ https://realsht.mobi/iJQbj
 • 100 Font Picsay/Pixelab
 https://realsht.mobi/hrTdE
 
-ঔৣ͜͡ 𝑯͢𝑰𝑫͢𝑹𝜟 𝛩𝑭 ͢𝑯𝒀͢𝑷𝑬💸⃟ꦿ⸼ DOMINA
+
 `
 }
 exports.modapk = modapk
