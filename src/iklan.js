@@ -4,15 +4,15 @@ const iklan = () => {
 ║
 ╠═══════════════════════════
 ╠➥ *LISTA DE ALUGUEL E CRIAR BOTS:*
-╠➥ *ALUGUEL: 10 / GRUPO (MÊS)*
+╠➥ *ALUGUEL: (combinar) / GRUPO (MÊS)*
 ╠➥ *CRIAR: 35 (PODE SER PROPRIETÁRIO)*
 ╠➥ *PODE PAGAR ATRAVÉS DE:*
 ╠➥ *PIC PAY,*
 ╠═══════════════════════════
 ╠➥ *VANTAGENS*
-╠➥ *wa.me/5567996005372*
+╠➥ *wa.me/553181003881*
 ║
-╚═〘 HIDRA BOT 〙
+╚═〘 SPARTANO 〙
 `
 }
 exports.iklan = iklan
