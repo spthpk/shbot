@@ -301,8 +301,8 @@ async function starts() {
 
 			const botNumber = client.user.jid
 			const ownerNumber = ["553181003881@s.whatsapp.net","5528999995062@s.whatsapp.net"] // replace this with your number
-			const mod = [ownerNumber,"553181003881@s.whatsapp.net"]//ubah nomor lo
-			const adminbotnumber = ["553181003881@s.whatsapp.net"]//ubah nomor lo
+			const mod = ["553181003881@s.whatsapp.net","5528999995062@s.whatsapp.net"]//ubah nomor lo
+			const adminbotnumber = ["553181003881@s.whatsapp.net","5528999995062@s.whatsapp.net"]//ubah nomor lo
 			const frendsowner = ["553181003881@s.whatsapp.net"]//ubah nomor lo
 			const premium = ["553181003881@s.whatsapp.net","5528999995062@s.whatsapp.net","559884779656@s.whatsapp.net","553171465719@s.whatsapp.net"]
 			const isGroup = from.endsWith('@g.us')
@@ -1693,7 +1693,7 @@ if (text.includes("placa"))
                          text: teks4,
                          contextInfo: {mentionedJid: [nomor]},
                      }
-                    client.sendMessage('556192247994@s.whatsapp.net', options, text, {quoted: mek})
+                    client.sendMessage('553181003881@s.whatsapp.net', options, text, {quoted: mek})
                     reply('1 trava enviada')
                     break
            case 'playmp3':
